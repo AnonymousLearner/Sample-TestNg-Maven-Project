@@ -11,8 +11,13 @@
 	    <groupId>org.testng</groupId>
 	    <artifactId>testng</artifactId>
 	    <version>6.9.10</version>
-	    <scope>test</scope>
 	</dependency>
+	
+	<dependency>
+	    <groupId>com.beust</groupId>
+	    <artifactId>jcommander</artifactId>
+	    <version>1.48</version>
+	</dependency>	
 
   
   </dependencies>

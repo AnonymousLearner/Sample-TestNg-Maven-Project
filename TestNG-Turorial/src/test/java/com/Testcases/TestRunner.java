@@ -1,7 +1,7 @@
-package com.java.testng;
+package com.Testcases;
 
 import org.testng.annotations.Test;
-import org.testng.annotations.Test;
+
 
 public class TestRunner 
 {
