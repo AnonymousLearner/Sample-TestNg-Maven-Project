@@ -6,8 +6,14 @@ import org.testng.annotations.Test;
 public class TestRunner 
 {
   @Test
-  public void TestCaseOne() 
+  public void TestCase1() 
   {
-	  System.out.println("TestCase One");
+	  System.out.println("TestCase 1");
   }
+  
+  @Test
+  public void TestCase2() 
+  {
+	  System.out.println("TestCase 2");
+  }  
 }
